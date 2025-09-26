@@ -127,7 +127,12 @@ if __name__ == "__main__":
 
 
 ### Output:
+<img width="1420" height="458" alt="image" src="https://github.com/user-attachments/assets/5a922704-52f4-4468-a6dd-1235795d0859" />
+<hr>
 <img width="1432" height="462" alt="image" src="https://github.com/user-attachments/assets/b949c1c2-acc8-463b-8743-a532ffe70734" />
+<hr>
+<img width="1439" height="470" alt="image" src="https://github.com/user-attachments/assets/d0e1b8da-f5c7-4205-8c1d-c7deff84b9c3" />
+
 
 
 ### Result:
